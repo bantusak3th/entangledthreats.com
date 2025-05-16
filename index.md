@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Entangled Threats
+layout: Home
+title: Home
 ---
 
 # Entangled Threats
